@@ -1,0 +1,5 @@
+=== Health Summary for 2025-07-05 ===
+💓 Average BPM: 77
+↕️  BPM Range: 51–121 bpm
+🚤 Average Stress: 33
+↕️  Stress Range: 9–62

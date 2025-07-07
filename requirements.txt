@@ -1,0 +1,17 @@
+pyttsx3
+vosk
+pyaudio
+openai
+Pillow
+psutil
+pyautogui
+adb-shell
+sounddevice
+elevenlabs
+pydub
+requests
+schedule
+numpy
+matplotlib
+python-dotenv
+setuptools
